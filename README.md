@@ -6,4 +6,4 @@ featurså betydde, så måtte lese en god del for å finne target label (pcheml_
 
 datasettet har document_journal assay_description som features som er tekst og jeg klarte ikke å kombinere det med tabuler data, derfor ble det noe rot i koden.
 
-Jeg har noe feil med modellen siden den gir en MSE på 0,0. Har prøvd mye forskjelligt, men får det ikke til.  
+Jeg har noe feil med modellen siden den gir en MSE på 0,0. Har prøvd mye forskjelligt, men med kombinasjon av dårlig planlegging gikk det ikke. Jeg har derimot lært masse fra prosjeketet, arbeid i å få ting til å fungerer er det og lærdom i.
